@@ -1,0 +1,25 @@
+#MainBody{
+background-image:url("image32.jpg");
+background-repeat:no-repeat;
+background-size:100% 425px;
+background-position:bottom;
+background-color:#666666;
+}
+#MainBody h3{
+margin:0;
+padding:10px;
+color:white;
+text-align:center;
+}
+#MainBody div{
+color:white;
+padding:15px 50px 15px;
+position:relative;
+top:5px;
+left:350px;
+background-color:#000000;
+width:350px;
+border:10px solid #FF3366;
+margin:5px;
+}
+}
